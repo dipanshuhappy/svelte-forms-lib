@@ -1,6 +1,7 @@
 
 <p>
-  <img src="https://svelte-forms-lib-sapper-docs.now.sh/logo.png" width="100px" height="100px" title="Svelte forms lib logo" alt="Svelte forms lib logo" />
+  <img src="https://svelte-forms-lib-sapper-docs.now
+            h/logo.png" width="100px" height="100px" title="Svelte forms lib logo" alt="Svelte forms lib logo" />
 </p>
 
 <a href="https://www.npmjs.com/package/svelte-forms-lib">
